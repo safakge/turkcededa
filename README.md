@@ -7,10 +7,13 @@ Kullanım:
 ----
 Kod:
 
+    <?php
+    include('SGdeda.php');
     $word = "Osman";
     echo $word." ".da_or_de($word)." iyidir.\n";
     $word = "Ali";
     echo $word." ".da_or_de($word)." iyidir.";
+    ?>
 
 Çıktı:
 
