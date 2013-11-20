@@ -20,4 +20,4 @@ Kod:
     Osman da iyidir.
     Ali de iyidir.
   
-Bu kadar. All rights hayırını görün.
+Bu kadar. All rights hayrini gorun.
